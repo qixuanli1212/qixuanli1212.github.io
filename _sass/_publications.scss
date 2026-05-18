@@ -41,6 +41,8 @@
 
       .preview {
         display: inline-block;
+        width: 100%;
+        max-width: 260px;
       }
 
       .abbr {
@@ -107,6 +109,7 @@
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
+          text-transform: none;
 
           &:hover {
             color: var(--global-theme-color);
