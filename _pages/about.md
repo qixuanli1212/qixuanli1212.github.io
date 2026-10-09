@@ -25,8 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student at the Institute of Data and Information, Tsinghua Shenzhen International Graduate School (Tsinghua SIGS), advised by Prof. Xinlei Chen. I also work closely with Dr. Jincheng Yu from the Department of Electronic Engineering at Tsinghua University.
+I am currently a graduate student at Tsinghua Shenzhen International Graduate School (Tsinghua SIGS), Tsinghua University. I also work closely with Dr. Jincheng Yu from the Department of Electronic Engineering at Tsinghua University.
 
 I received my bachelor's degree in Automation from the Qian Xuesen Honors College at Xi'an Jiaotong University, along with a second bachelor's degree in Economics.
 
-My research focuses on robotic planning, control, and learning for physically constrained multi-robot systems. I am particularly interested in cooperative loco-manipulation with legged robots, whole-body control, motion planning, and active perception. Before shifting my focus toward planning, control, and learning, I worked on multi-robot perception and localization, which continues to provide a foundation for my research on robust multi-robot autonomy.
+My research interests lie in **robot planning and optimization**, with a particular focus on **derivative-free and distributional optimization** for constrained robot planning. I am especially interested in trajectory optimization, contact-rich manipulation, task and motion planning, and mobile manipulation.
+
+My previous research spans cooperative loco-manipulation, whole-body control, active perception, and multi-robot localization. These experiences have motivated my interest in developing optimization methods that can effectively handle complex constraints and improve the reliability of robotic systems.

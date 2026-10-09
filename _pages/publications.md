@@ -15,6 +15,12 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<h2>Conference Papers</h2>
+
+{% bibliography --query @*[category=conference]* %}
+
+<h2>Preprints &amp; Manuscripts</h2>
+
+{% bibliography --query @*[category=preprint]* %}
 
 </div>
